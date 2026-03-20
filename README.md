@@ -1,2 +1,3 @@
-# advanced-web-app-x5pt
-Automated issue comment bot repository
+# Advanced Web App X5Pt
+
+Automated issue comment bot repository.
